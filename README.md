@@ -70,6 +70,8 @@ Run the script:
 streamlit run app.py
 After Successfull running Upload the dataset(provided in the github repo) to analyze Future Enhancements
 
+Deployment link https://zomatodata-sqfywqremywfbnkk3as6em.streamlit.app/
+
 Conclusion
 
 This analysis provides valuable insights into restaurant trends, customer behavior, and business strategies using real-world data. The project demonstrates strong Data Science and EDA skills, making it relevant for business intelligence and decision-making in the food industry.
