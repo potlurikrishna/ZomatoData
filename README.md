@@ -68,7 +68,7 @@ pip install pandas numpy seaborn matplotlib streamlit
 Run the script:
 
 streamlit run app.py
-
+After Successfull running Upload the dataset to analyze
 Future Enhancements
 
 Predicting restaurant success using Machine Learning models.
